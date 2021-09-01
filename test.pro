@@ -21,11 +21,11 @@ INCLUDEPATH += D:\program_files\eigen-3.3.9
 SOURCES += \
     main.cpp \
     mainwindow.cpp \
-    readExcelData.cpp
+    ExcelRead/readExcelData.cpp
 
 HEADERS += \
     mainwindow.h \
-    readExcelData.h
+    ExcelRead/readExcelData.h
 
 FORMS += \
     mainwindow.ui
